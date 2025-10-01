@@ -2,7 +2,6 @@
 #include "func.h"
 #include <cmath>
 
-//Комментарий для првоерки работы коммита, не обращайте внимание
 
 Tochka ReadTochka () {
     Tochka p{};
